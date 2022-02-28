@@ -1,0 +1,4 @@
+LOGIN AKUN
+
+username = bagus
+pass = bagus
