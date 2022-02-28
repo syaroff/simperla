@@ -1,0 +1,19 @@
+/* Import font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+
+* {
+    font-family: 'Poppins',sans-serif;
+
+}
+:root {
+    --ungu : #8b11bb;
+  }
+  .btn-ungu {
+    background: var(--ungu) !important;
+    box-shadow: none !important;
+    border: none !important;
+  }
+.bg-gradient-ungu {
+    background: rgb(205,106,235);
+    background: linear-gradient(40deg, rgba(205,106,235,1) 20%, rgba(154,0,255,1) 84%); 
+}
